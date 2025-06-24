@@ -1,0 +1,21 @@
+body {
+  background-color: burlywood;
+}
+h1 {
+  color: #331a00;
+  font-family: lucida handwriting ;
+  font-size: 300%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+}
+div {
+  background-color:#a27247;
+  width: 1220px;
+  font-weight: bold;
+  font-size: 110%;
+  text-align: center;
+  padding: 20px;
+}
+
+
